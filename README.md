@@ -21,3 +21,9 @@ This repo contains a partial implementation of autocompleting search, built upon
 - Both inputs should work at the same time. Don't break #1 when working on #2.
 - The code should work properly in the latest version of Chrome. Don't worry about other browsers.
 - If you want to pull in small utility libraries like Lodash, be sure to add them to the package file. Please don't incorporate any large frameworks.
+
+## Submission
+Please submit your solution as a zip file. If you are using gmail, here's the easiest way:
+1. Generate a zip file: `git archive HEAD --format=zip -o solution.zip`
+1. [Upload](https://support.google.com/drive/answer/2424368) to google drive.
+1. Send as a [drive link](https://support.google.com/mail/answer/2487407).
